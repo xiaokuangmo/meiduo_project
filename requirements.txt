@@ -30,7 +30,7 @@ Pillow==7.1.2
 prompt-toolkit==3.0.5
 ptyprocess==0.6.0
 pycryptodomex==3.9.7
-Pygments==2.6.1
+Pygments==2.7.4
 PyJWT==1.7.1
 PyMySQL==0.9.3
 python-alipay-sdk==1.8.0
